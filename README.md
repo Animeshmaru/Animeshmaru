@@ -1,6 +1,4 @@
-# Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  
-✔
-
+# Hi there <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="60" height="60" />
 <!--![Hi](https://user-images.githubusercontent.com/77394228/125829536-82383ccd-9b50-4683-b8ef-04272c87486b.gif)
 
 **Animeshmaru/Animeshmaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
